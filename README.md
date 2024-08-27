@@ -9,7 +9,7 @@ This repository contains the frontend code for the Bible-App, a web application 
 * Contributing
 * License
 
-##Installation
+## Installation
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
@@ -36,15 +36,15 @@ Copy code
 npm start
 4. Open your browser and go to http://localhost:3000 to see the app in action.
 
-##Features
+## Features
 Search Functionality: Quickly find specific verses or chapters.
 Responsive Design: Optimized for both mobile and desktop devices.
 User-friendly Interface: Simple and clean design for easy navigation.
 
-##Usage
+## Usage
 After setting up the project, you can customize and extend the application by adding more features or modifying the existing ones. The application is built using React, making it highly modular and easy to manage.
 
-##Folder Structure
+## Folder Structure
 The project directory is structured as follows:
 
 
@@ -76,8 +76,8 @@ styles/: CSS files for styling the components.
 package.json: Contains dependencies and scripts for the project.
 README.md: This file.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to create an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
