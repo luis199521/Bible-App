@@ -31,9 +31,12 @@ npm install
 ```
 3. Start the development server:
 
-bash
+```bash
 Copy code
 npm start
+
+
+```
 4. Open your browser and go to http://localhost:3000 to see the app in action.
 
 ## Features
