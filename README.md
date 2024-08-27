@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
 
 
 ```bash
-Copy code
+
 git clone https://github.com/luis199521/Bible-App.git
 cd Bible-App/Frontend
 
@@ -25,14 +25,14 @@ cd Bible-App/Frontend
 
 
 ```bash
-Copy code
+
 npm install
 
 ```
 3. Start the development server:
 
 ```bash
-Copy code
+
 npm start
 
 
