@@ -1,7 +1,7 @@
 # Bible-App 
 This repository contains the frontend code for the Bible-App, a web application designed to provide an easy and interactive way to read, search, and study the Bible.
 
-##Table of Contents
+## Table of Contents
 * Installation
 * Features
 * Usage
@@ -69,11 +69,17 @@ src/
 package-lock.json
 package.json
 README.md
+
 public/: Static assets like HTML, images, and other files.
+
 src/: Source code including components, styles, and images.
+
 components/: React components used throughout the application.
+
 styles/: CSS files for styling the components.
+
 package.json: Contains dependencies and scripts for the project.
+
 README.md: This file.
 
 ## Contributing
